@@ -26,3 +26,26 @@
     margin-bottom: 30px;
     color: gray;
 }
+
+.firstdollar .first{
+    margin-left: 300px;
+    color:darkgreen;
+    font-weight: bold;
+    font-size: 30px;
+}
+.firstdollar #seconddollar{
+    color:grey;
+    margin-left: 450px;
+    margin-top: -23px;
+    text-decoration-line: line-through;
+    
+}
+ button{
+    padding: 20px;
+    width: 300px;
+    height: 30px;
+    background-color: darkgreen;
+    color: aliceblue;
+    font-size: 20px;
+
+ }
