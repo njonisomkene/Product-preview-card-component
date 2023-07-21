@@ -5,37 +5,42 @@
 }
 .gab img{
     width: 300px;
+    margin-left: 300px;
+    margin-top: 60px;
+    margin-bottom: -496px;
+    height: 450px;
 
 }
 
 .half{
     margin-top: 39px;
     margin-left: 300px;
-    color:gray;
+    color:;
     align-items: center;
     justify-content: center;
+    margin-left: 610px;
 }
 #gab{
-    color: black;
+    color:black;
     margin-top: 25px;
 }
 .secondhalf{
 
-    margin-left: 300px;
+    margin-left: 610px;
     margin-top: 30px;
     margin-bottom: 30px;
     color: gray;
 }
 
 .firstdollar .first{
-    margin-left: 300px;
+    margin-left: 610px;
     color:darkgreen;
     font-weight: bold;
     font-size: 30px;
 }
 .firstdollar #seconddollar{
     color:grey;
-    margin-left: 450px;
+    margin-left: 720px;
     margin-top: -23px;
     text-decoration-line: line-through;
     
@@ -47,5 +52,12 @@
     background-color: darkgreen;
     color: aliceblue;
     font-size: 20px;
+    border-radius: 10px;
+    border: 10px;
+    margin-left: 610px;
+    margin-top: 30px;
 
+ }
+ #all{
+    color: ;
  }
