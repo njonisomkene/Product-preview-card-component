@@ -3,6 +3,7 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 .gab img{
     width: 300px;
     margin-left: 300px;
@@ -30,6 +31,7 @@
     margin-top: 30px;
     margin-bottom: 30px;
     color: gray;
+
 }
 
 .firstdollar .first{
@@ -45,9 +47,9 @@
     text-decoration-line: line-through;
     
 }
- button{
+ .logo{
     padding: 20px;
-    width: 300px;
+    width: 220px;
     height: 30px;
     background-color: darkgreen;
     color: aliceblue;
@@ -55,9 +57,13 @@
     border-radius: 10px;
     border: 10px;
     margin-left: 610px;
-    margin-top: 30px;
+    margin-top: 50px;
+    padding-bottom: 40px
+    
 
  }
- #all{
-    color: ;
+ .logo svg{
+    width: 40px;
+    height: 30px;
+    color: black;
  }
