@@ -9,17 +9,18 @@
     margin-left: 300px;
     margin-top: 60px;
     margin-bottom: -496px;
-    height: 450px;
+    height: 400px;
 
 }
 
 .half{
-    margin-top: 39px;
+    margin-top: 90px;
     margin-left: 300px;
-    color:;
+    color:gray;
     align-items: center;
     justify-content: center;
     margin-left: 610px;
+    background-color: ;
 }
 #gab{
     color:black;
@@ -57,13 +58,15 @@
     border-radius: 10px;
     border: 10px;
     margin-left: 610px;
-    margin-top: 50px;
+    margin-top: 40px;
     padding-bottom: 40px
     
 
  }
  .logo svg{
-    width: 40px;
-    height: 30px;
-    color: black;
+    width: 15px;
+    height: px;
+ }
+ .pef{
+    margin-bottom: -15px;
  }
